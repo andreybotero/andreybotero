@@ -1,13 +1,13 @@
 ### Olá sou o é Andrey Botero 🖐
-
+<br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-botero-7a5a98264/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu__53/)
 
 ![Andrey GitHub stats](https://github-readme-stats.vercel.app/api?username=andreybotero&show_icons=true&theme=tokyonight)
 
-### Technologias utilizadas 
 
+### Technologias utilizadas 
 
 <div style="display: inline-block"><br/>
 
